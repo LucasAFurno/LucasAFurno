@@ -1,12 +1,18 @@
 Hi, i´m Lucas A. Furno
+
+
+
 <br/>
 
 <a href="https://github.com/LucasAFurno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAFurno&theme=highcontrast&show_icons=compact" />
+  <img height="345em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" />
+  
+
+  
 </a>
 
-<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=3&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
