@@ -7,10 +7,8 @@
 💼 algún trabajo freelance? Enviame un correo <br/>
 
 <br/>
-
-Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
-<a href="https://www.buymeacoffee.com/lucasfurno" target="_blank"><img height="50em" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 15px !important;" ></a>
-
+<br/>
+<br/>
 
 <a href="https://github.com/LucasAFurno">
   <img height="345em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" />
