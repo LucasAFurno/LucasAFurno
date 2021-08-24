@@ -1,4 +1,4 @@
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Hola soy Lucas A. Furno, soporte técnico desde 2008, soy autodidacta y estoy aprendiendo en este nuevo camino, actualmente estoy cursado en Educación IT para aprender mucho más sobre Cloud
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Hola soy Lucas A. Furno, soporte técnico desde 2008, soy autodidacta y estoy aprendiendo en este nuevo camino, actualmente cursado en Educación IT para aprender mucho más sobre Cloud.
 
 
 <h3 align="left">Languages and Tools:</h3>
