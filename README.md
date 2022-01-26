@@ -1,4 +1,20 @@
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Hola soy Lucas A. Furno, soporte técnico desde 2008, soy autodidacta y estoy aprendiendo en este nuevo camino, actualmente cursado en Educación IT para aprender mucho más sobre Cloud.
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">HI have 11 years of experience in the IT field. 
+I started in 2009 performing technical service and support to private customers, from there I began to improve day by day, acquiring the knowledge that enabled me to provide my services to businesses and schools.
+
+Currently I am doing training in Azure and AWS as I consider it is the future and my mission is to develop and apply in CLOUD.
+
+My work goal is to continue training in this area, progressing day by day and acquiring new knowledge. Also to take on new challenges. 
+I consider myself a responsible, dynamic and persevering person.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Cuento con 11 años de experiencia en el rubro IT. 
+Comencé en el año 2009 realizando servicio técnico y soporte a clientes particulares, desde allí comencé a perfeccionarme día a día, adquiriendo el conocimiento que me habilitó a otorgarle mis servicios a PYMES y escuelas.
+
+Actualmente estoy realizando capacitaciones en Azure y AWS ya que considero que es el futuro y mi misión es desarrollarme y aplicar en CLOUD.
+
+Mi objetivo laboral es continuar formándome dentro de este rubro, progresando día a día y adquiriendo nuevos conocimientos. Asimismo asumir nuevos desafíos. 
+Me considero una persona responsable, dinámica y perseverante.
 
 
 <h3 align="left">Languages and Tools:</h3>
