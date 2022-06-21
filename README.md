@@ -1,5 +1,4 @@
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-Cuento con 11 años de experiencia en el rubro IT. 
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Cuento con 11 años de experiencia en el rubro IT. 
 Comencé en el año 2009 realizando servicio técnico y soporte a clientes particulares, desde allí comencé a perfeccionarme día a día, adquiriendo el conocimiento que me habilitó a otorgarle mis servicios a PYMES y escuelas.
 
 Actualmente estoy realizando capacitaciones en Azure y AWS ya que considero que es el futuro y mi misión es desarrollarme y aplicar en CLOUD.
