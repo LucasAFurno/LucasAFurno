@@ -9,8 +9,7 @@ Me considero una persona responsable, dinámica y perseverante.
 <br/>
 <a href="https://github.com/LucasAFurno">
   <img height="345em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" /> 
-</a>
-</p>
+
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/lucasafurno&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
