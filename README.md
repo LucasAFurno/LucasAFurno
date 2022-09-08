@@ -10,8 +10,7 @@ Me considero una persona responsable, dinámica y perseverante.
   <img height="345em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" /> 
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy]https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix[
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.PCLAF.com.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-www.PCLAF.com.ar-blue?style=flat-square&logo=google-chrome"></a>
