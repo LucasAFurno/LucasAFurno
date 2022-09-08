@@ -21,7 +21,8 @@ Me considero una persona responsable, dinámica y perseverante.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -42,7 +43,7 @@ Me considero una persona responsable, dinámica y perseverante.
 </a></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/lucasafurno&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+<h3>[![trophy](https://github-profile-trophy.vercel.app/lucasafurno&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)</h3>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
