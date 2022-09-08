@@ -12,6 +12,7 @@ Me considero una persona responsable, dinámica y perseverante.
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/lucasafurno&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <br/>
 <p align="center">
