@@ -1,4 +1,3 @@
-<p align="center">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Soy analista técnico, con conocimientos y experiencia en montaje de equipos. También tengo conocimientos en Cloud y seguridad informática. 
 En busca de un cambio que me ayude a desarrollarme en la Nube.
 
@@ -52,5 +51,4 @@ Me considero una persona responsable, dinámica y perseverante.
 <a href="https://www.linkedin.com/in/lucasfurno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Adrian%20Furno-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/servicepclaf/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lucasafurno_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:lucas.furno@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucas.furno@protonmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 </p>
