@@ -11,8 +11,9 @@ Me considero una persona responsable, dinámica y perseverante.
   <img height="345em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" /> 
 </a>
 
-<p align="center">[trophy](https://github-profile-trophy.vercel.app/?username=lucasafurno&theme=radical&row=3&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=lucasafurno&theme=radical&row=3&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br/>
 <p align="center">
 <a href="https://www.PCLAF.com.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-www.PCLAF.com.ar-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/lucasfurno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Adrian%20Furno-blue?style=flat-square&logo=linkedin"></a>
