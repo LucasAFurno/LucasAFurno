@@ -1,6 +1,6 @@
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Soy DevOps jr, con conocimientos en Docker, Kubernetes, Git y Jenkins,
 Monitoreo con Prometheus y Grafana 
-También tengo conocimientos en Cloud y seguridad informática. 
+También tengo conocimientos en Cloud y seguridad informática. .
 
 
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">Mi objetivo laboral es continuar formándome dentro de este rubro, progresando día a día y adquiriendo nuevos conocimientos. Asimismo asumir nuevos desafíos. 
