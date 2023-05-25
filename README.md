@@ -45,16 +45,29 @@ Me considero una persona responsable, dinámica y perseverante.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&column=8&no-bg=true&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p>
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
 <img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
+</p>
