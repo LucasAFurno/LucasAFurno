@@ -45,9 +45,16 @@ Me considero una persona responsable, dinámica y perseverante.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&column=8&no-bg=true&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-<a href="https://www.PCLAF.com.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-www.PCLAF.com.ar-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/lucasfurno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Adrian%20Furno-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/servicepclaf/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lucasafurno_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:lucas.furno@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucas.furno@protonmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
+
