@@ -1,4 +1,4 @@
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Soy DevOps jr, con conocimientos en Docker, Kubernetes, Git y Jenkins,
+<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">Soy DevOps, con conocimientos en Docker, Kubernetes, Git y Jenkins,
 Monitoreo con Prometheus y Grafana 
 También tengo conocimientos en Cloud y seguridad informática. .
 
