@@ -6,15 +6,20 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero DevOps con sólida experiencia en:
+Ingeniero DevOps con amplia experiencia en:
 
-- **CI/CD & Automatización**: GitLab CI/CD, Jenkins, Terraform, Ansible  
-- **Contenerización & Orquestación**: Docker, Docker Compose, Kubernetes, Helm, Kustomize  
-- **Monitoreo & Observabilidad**: Prometheus, Grafana, ELK Stack, Loki  
-- **Cloud & Seguridad**: AWS, Azure, GCP, IAM, políticas de seguridad  
-- **Lenguajes & Scripting**: Bash, Python, Go  
+- **CI/CD & Automatización**: GitLab CI/CD, Jenkins, GitHub Actions, Fastlane (Android & iOS)  
+- **Infraestructura como Código**: Terraform, Ansible, AWS CloudFormation  
+- **Contenerización & Orquestación**: Docker, Docker Compose, Kubernetes, Amazon EKS, ArgoCD, Flux, Helm, Kustomize  
+- **Monitoreo & Observabilidad**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Loki, Jaeger  
+- **Calidad & Seguridad**: SonarQube, IAM, OWASP, escaneo estático y dinámico  
+- **Cloud & Mensajería**: AWS (S3, MSK, Lambda, CloudWatch), Azure, GCP  
+- **Lenguajes & Scripting**: Bash, Python, Go, YAML, Groovy  
+- **Testing & QA**: Pytest, pruebas automatizadas de APIs/UI, Appium, UiAutomator2  
+- **GitOps & Gestión de Secretos**: ArgoCD, Vault, Kustomize overlays  
+- **Automatización de procesos**: Bots de Discord, integraciones de WhatsApp y RSS  
 
-Apasionado por la automatización, la Infraestructura como Código y la mejora continua. Me gusta asumir nuevos desafíos, aprender día a día y aportar siempre soluciones escalables y seguras.
+Apasionado por la mejora continua, la Infraestructura como Código y la automatización integral. Disfruto asumir nuevos desafíos y optimizar flujos de trabajo día a día.
 
 ---
 
