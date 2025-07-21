@@ -1,79 +1,50 @@
-Soy DevOps, con conocimientos en Docker, Kubernetes, Git y Jenkins,
-Monitoreo con Prometheus y Grafana 
-También tengo conocimientos en Cloud y seguridad informática. .
+# 👋 Hola, soy Lucas A. Furno
 
+**DevOps Engineer** | **Cloud Enthusiast** | **Security Advocate**
 
-Mi objetivo laboral es continuar formándome dentro de este rubro, progresando día a día y adquiriendo nuevos conocimientos. Asimismo asumir nuevos desafíos. 
-Me considero una persona responsable, dinámica y perseverante.
+---
 
-<p>
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-</p>
+## 🧑‍💻 Sobre mí
 
-</p>
-<br/>
+Ingeniero DevOps con sólida experiencia en:
+
+- **CI/CD & Automatización**: GitLab CI/CD, Jenkins, Terraform, Ansible  
+- **Contenerización & Orquestación**: Docker, Docker Compose, Kubernetes, Helm, Kustomize  
+- **Monitoreo & Observabilidad**: Prometheus, Grafana, ELK Stack, Loki  
+- **Cloud & Seguridad**: AWS, Azure, GCP, IAM, políticas de seguridad  
+- **Lenguajes & Scripting**: Bash, Python, Go  
+
+Apasionado por la automatización, la Infraestructura como Código y la mejora continua. Me gusta asumir nuevos desafíos, aprender día a día y aportar siempre soluciones escalables y seguras.
+
+---
+
+## 🚀 Proyectos destacados
+
+> _“Infrastructure as code isn’t just a practice, es una filosofía.”_
+
+---
+
+## 📈 GitHub Stats & Trophies
+
 <a href="https://github.com/LucasAFurno">
-  <img height="345em" src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true" /> 
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=LucasAFurno&theme=highcontrast&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height="180em"
+       src="https://github-profile-trophy.vercel.app/?username=LucasAFurno&theme=onedark&no-frame=true&column=7" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LucasAFurno&no-frame=true&column=8&no-bg=true&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-<p>
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130126472-d49870d0-0189-45af-8566-446cfc529cb9.png">
-<img height="30em" src= "https://user-images.githubusercontent.com/89053122/130125690-d8fb9a74-e4b4-4bc9-93ba-ab39029e9d65.png">
-</p>
+## 📫 Contacto
+
+- ✉️  lucas.furno@example.com  
+- 🔗  [LinkedIn](https://linkedin.com/in/LucasAFurno)  
+- 🐦  [Twitter](https://twitter.com/LucasAFurno)  
+
+---
+
+> “A journey of a thousand miles begins with a single step.”  
+> Confucio
+
