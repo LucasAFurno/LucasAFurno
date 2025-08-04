@@ -44,7 +44,7 @@ Apasionado por la mejora continua, la Infraestructura como Código y la automati
 
 ## 📫 Contacto
 
-- ✉️  lucas.furno@example.com  
+- ✉️  lucas.furno@protonmail.com  
 - 🔗  [LinkedIn](https://linkedin.com/in/LucasAFurno)  
 - 🐦  [Twitter](https://twitter.com/LucasAFurno)  
 
