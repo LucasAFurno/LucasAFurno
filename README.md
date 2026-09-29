@@ -1,18 +1,35 @@
-# 👋 Hola, soy Lucas A. Furno
+# Lucas A. Furno
 
-**DevOps Engineer**
+DevOps Engineer / SRE based in Buenos Aires, Argentina.
 
----
+I work mainly with cloud infrastructure, Kubernetes, CI/CD, GitOps and production troubleshooting.
 
-## 🧑‍💻 Sobre mí
+### Tech Stack
 
-     ______
-     /|_||_\`.__
-    (   _    _ _\
-    =`-(_)--(_)-'
+- Cloud: AWS, EKS, GCP, GKE
+- Containers: Docker, Kubernetes
+- CI/CD: GitLab CI/CD, GitHub Actions, Kaniko
+- GitOps: ArgoCD, Kustomize
+- Observability: Datadog, Prometheus, Grafana
+- Quality & Security: SonarQube, OPA, Conftest
+- Systems: Linux, Bash
+- Data & Infrastructure: Redis, ClickHouse
 
---- BRUUMM ---   BRRUUUMMM
+### What I work on
 
+- CI/CD automation
+- Kubernetes troubleshooting
+- Production incident response
+- Deployment automation
+- GitOps workflows
+- Cloud infrastructure
+- Monitoring and observability
+- Root cause analysis
 
+### Current focus
 
+Improving reliability and developer experience through automation, observability and AI-assisted incident troubleshooting.
 
+### Contact
+
+LinkedIn: https://www.linkedin.com/in/lucasfurno  
